@@ -1,0 +1,1 @@
+export const text3 = 'text3'
